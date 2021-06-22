@@ -1,0 +1,28 @@
+,Earnings; Males; Full Time; Adult; Ordinary time earnings ;  New South Wales ;,Earnings; Males; Full Time; Adult; Total earnings ;  New South Wales ;,Earnings; Males; Total earnings ;  New South Wales ;,Earnings; Females; Full Time; Adult; Ordinary time earnings ;  New South Wales ;,Earnings; Females; Full Time; Adult; Total earnings ;  New South Wales ;,Earnings; Females; Total earnings ;  New South Wales ;,Earnings; Persons; Full Time; Adult; Ordinary time earnings ;  New South Wales ;,Earnings; Persons; Full Time; Adult; Total earnings ;  New South Wales ;,Earnings; Persons; Total earnings ;  New South Wales ;
+Unit,$,$,$,$,$,$,$,$,$
+Series Type,Seasonally Adjusted,Seasonally Adjusted,Seasonally Adjusted,Seasonally Adjusted,Seasonally Adjusted,Seasonally Adjusted,Seasonally Adjusted,Seasonally Adjusted,Seasonally Adjusted
+Data Type,RATIO,RATIO,RATIO,RATIO,RATIO,RATIO,RATIO,RATIO,RATIO
+Frequency,Biannual,Biannual,Biannual,Biannual,Biannual,Biannual,Biannual,Biannual,Biannual
+Collection Month,2,2,2,2,2,2,2,2,2
+Series Start,May-2012,May-2012,May-2012,May-2012,May-2012,May-2012,May-2012,May-2012,May-2012
+Series End,Nov-2020,Nov-2020,Nov-2020,Nov-2020,Nov-2020,Nov-2020,Nov-2020,Nov-2020,Nov-2020
+No. Obs,18,18,18,18,18,18,18,18,18
+Series ID,A84994875F,A84994878L,A84994881A,A84994876J,A84994879R,A84994882C,A84994877K,A84994880X,A84994883F
+May-2012,1442.00,1520.90,1262.00,1212.20,1229.40,843.80,1355.20,1411.60,1052.10
+Nov-2012,1486.50,1556.20,1308.20,1249.20,1264.00,860.60,1398.90,1447.90,1083.60
+May-2013,1486.20,1550.20,1316.10,1271.10,1286.80,885.80,1407.80,1454.90,1105.20
+Nov-2013,1499.30,1570.70,1311.30,1293.20,1306.20,913.70,1421.10,1470.10,1115.30
+May-2014,1558.30,1620.30,1326.70,1300.10,1316.40,906.00,1459.00,1504.00,1115.90
+Nov-2014,1611.90,1680.10,1369.10,1306.60,1319.10,904.00,1492.30,1538.60,1131.70
+May-2015,1635.90,1704.30,1380.00,1322.80,1341.80,928.60,1512.10,1560.80,1152.70
+Nov-2015,1639.30,1712.20,1397.10,1348.70,1365.70,951.50,1527.30,1579.00,1178.60
+May-2016,1652.70,1720.30,1420.90,1368.10,1386.60,973.70,1541.00,1589.20,1197.10
+Nov-2016,1634.00,1710.60,1422.40,1380.80,1399.80,967.60,1535.80,1590.50,1193.00
+May-2017,1642.10,1733.80,1430.80,1398.80,1419.50,987.30,1545.80,1609.20,1203.80
+Nov-2017,1682.20,1768.20,1456.40,1441.80,1459.10,1005.30,1585.90,1644.70,1224.40
+May-2018,1698.70,1790.40,1448.70,1466.00,1484.80,1035.50,1606.10,1668.60,1239.20
+Nov-2018,1717.30,1807.80,1484.80,1479.80,1501.20,1048.30,1622.10,1685.30,1263.90
+May-2019,1768.40,1861.30,1525.90,1509.10,1531.90,1056.00,1664.10,1728.80,1285.10
+Nov-2019,1778.80,1876.70,1530.10,1528.20,1549.80,1059.50,1680.20,1748.40,1289.70
+May-2020,1864.50,1947.30,1572.20,1578.50,1596.60,1105.20,1748.90,1805.40,1330.20
+Nov-2020,1848.20,1937.20,1559.40,1600.40,1620.60,1064.60,1751.90,1814.50,1303.40
