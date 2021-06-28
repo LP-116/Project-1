@@ -47,11 +47,12 @@ To complete the analysis we used a number of different actions including:
 For further detail regarding our analysis, please refer to the jupter notebooks in the main branch of the repository.
 Notes on these notebooks are also below in the files section.
 
+---
 ### Observations
 
 Please refer to the Analysis summary document in the main branch for a summary of our findings.
 
-
+---
 ### Files
 There are 7 files in the main branch of this repository that contain our analysis and data cleanup.
 Details on these files are below:
@@ -79,6 +80,7 @@ Details on these files are below:
 * Group Presentation - A powerpoint version of our presentation.
 * Analysis summary - A summary of our findings.
  
+ ---
 ### Further notes
 Please note you will need a Goodle maps API to run some of the files.
 To create a Google maps API key please navigate to https://developers.google.com/maps/documentation/embed/get-api-key
