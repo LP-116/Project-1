@@ -19,10 +19,12 @@ Details on these files are below:
   This notebook completes some analysis on Victorian suburbs and identifies the top and bottom 5 suburbs in Victoria based on price change between different periods of time. Graphs and the data cleanup process are included.
   
 * Extracting state wage details.ipynb
-  This notebook shows how the missing years for the state wage analysis were extracted.
+
+This notebook shows how the missing years for the state wage analysis were extracted.
   
 * Extracting suburb wage details.ipynb
-  This notebook shows how the wage details were extracted for the suburb income analysis.
+
+This notebook shows how the wage details were extracted for the suburb income analysis.
 
 * Final suburb analysis.ipynb
   This notebook is the bulk of the suburb analysis. The heatmaps are included in this notebook and it also shows the data cleanup process.
