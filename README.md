@@ -90,7 +90,7 @@ Details on these files are below:
 * Images folder - this folder contains images of all graphs generated in the analysis 
 * Data files - This folder contains all csv files used/exported in our analysis.
 * Analysis Presentation - A powerpoint version of our presentation. (completed by all)
-* Analysis summary - A summary of our findings. (written contributions by all but document prepared and finessed by Mathew)
+* Group 4 Research Report - A summary of our findings. (written contributions by all but document prepared and finessed by Mathew)
  
  ---
 ### Data sources
