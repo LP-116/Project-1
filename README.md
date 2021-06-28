@@ -77,7 +77,7 @@ Details on these files are below:
   
 * Images folder - this folder contains images of all graphs generated in the analysis
 * Data files - This folder contains all csv files used/exported in our analysis.
-* Group Presentation - A powerpoint version of our presentation.
+* Analysis Presentation - A powerpoint version of our presentation.
 * Analysis summary - A summary of our findings.
  
  ---
