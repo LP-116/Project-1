@@ -81,10 +81,30 @@ Details on these files are below:
 * Analysis summary - A summary of our findings.
  
  ---
+### Data sources
+
+Data sources:
+
+State house price analysis:
+https://www.abs.gov.au/statistics/economy/price-indexes-and-inflation/residential-property-price-indexes-eight-capital-cities/latest-release#data-download
+
+
+State income analysis:
+https://www.abs.gov.au/statistics/labour/earnings-and-work-hours/personal-income-australia/latest-release#data-download
+https://www.abs.gov.au/statistics/labour/earnings-and-work-hours/average-weekly-earnings-australia/latest-release#data-download
+
+Suburb house price analysis:
+https://discover.data.vic.gov.au/dataset/victorian-property-sales-report-median-house-by-suburb
+
+Suburb income analysis:
+https://data.gov.au/data/dataset/taxation-statistics-postcode-data/resource/b713d037-d9f5-49e5-a492-502cd7b3a15a
+
+---
 ### Further notes
 Please note you will need a Goodle maps API to run some of the files.
 To create a Google maps API key please navigate to https://developers.google.com/maps/documentation/embed/get-api-key
 Create a new file to store your API key. The google maps key needs to be stored as "g_key = "ENTER CODE HERE". Without the API key, the code will not run.
+
 
 
 
