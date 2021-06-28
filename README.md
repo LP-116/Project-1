@@ -57,28 +57,40 @@ Please refer to the Analysis summary document in the main branch for a summary o
 There are 7 files in the main branch of this repository that contain our analysis and data cleanup.
 Details on these files are below:
 
-* Top 5 and Bottom 5 Suburbs in Victoria.ipynb 
+* Top 5 and Bottom 5 Suburbs in Victoria.ipynb  (completed by Sree)
 <br />This notebook completes some analysis on Victorian suburbs and identifies the top and bottom 5 suburbs in Victoria based on price change between different periods of time. Graphs and the data cleanup process are included.
   
-* Extracting state wage details.ipynb
+* Extracting state wage details.ipynb (completed by Leanne)
 <br />This notebook shows how the missing years for the state wage analysis were extracted.
   
-* Extracting suburb wage details.ipynb
+* Extracting suburb wage details.ipynb (completed by Leanne)
 <br />This notebook shows how the wage details were extracted for the suburb income analysis.
 
-* Final suburb analysis.ipynb
+* Final suburb analysis.ipynb (completed by Leanne)
 <br />This notebook is the bulk of the suburb analysis. The heatmaps are included in this notebook and it also shows the data cleanup process.
 
-* State price predictions.ipynb 
+* State price predictions.ipynb (completed by John)
 <br />This notebook shows how the house price predictions were calculated for each state. Graphs and the data cleanup process are included.
   
-* Suburb salary analysis.ipynb
+* Suburb salary analysis.ipynb (completed by Leanne)
 <br />This notebook shows how the suburb salary analysis was completed. Graphs and the data cleanup process are included.
+
+* House Price Forecast.ipynb (completed by Mathew)
+<br />This notebook shows how the house price forecast analysis was completed. Graphs and the data cleanup process are included.
+
+* House Price Analysis.ipynb (completed by Mathew)
+<br />This notebook shows how the state and regional house price analysis was completed. Graphs and the data cleanup process are included.
+
+* Reformatting VIC.ipynb (completed by Mathew)
+<br />This notebook shows the process of reformatting VIC data.
+
+* Regression Analysis.ipynb (completed by Mathew)
+  <br />This notebook shows how the regression analysis was completed. Graphs and the data cleanup process are included.
   
-* Images folder - this folder contains images of all graphs generated in the analysis
+* Images folder - this folder contains images of all graphs generated in the analysis 
 * Data files - This folder contains all csv files used/exported in our analysis.
-* Analysis Presentation - A powerpoint version of our presentation.
-* Analysis summary - A summary of our findings.
+* Analysis Presentation - A powerpoint version of our presentation. (completed by all)
+* Analysis summary - A summary of our findings. (written contributions by all but document prepared and finessed by Mathew)
  
  ---
 ### Data sources
