@@ -54,7 +54,7 @@ Please refer to the Analysis summary document in the main branch for a summary o
 
 ---
 ### Files
-There are 7 files in the main branch of this repository that contain our analysis and data cleanup.
+There are 7 files in the Analysis folder of this repository that contain our analysis and data cleanup.
 Details on these files are below:
 
 * Top 5 and Bottom 5 Suburbs in Victoria.ipynb  (completed by Sree)
@@ -87,10 +87,12 @@ Details on these files are below:
 * Regression Analysis.ipynb (completed by Mathew)
   <br />This notebook shows how the regression analysis was completed. Graphs and the data cleanup process are included.
   
+Also in the main branch of this repository is an:
+
 * Images folder - this folder contains images of all graphs generated in the analysis 
-* Data files - This folder contains all csv files used/exported in our analysis.
-* Analysis Presentation - A powerpoint version of our presentation. (completed by all)
-* Group 4 Research Report - A summary of our findings. (written contributions by all but document prepared and finessed by Mathew)
+* Data files folder - This folder contains all csv files used/exported in our analysis.
+* Analysis Presentation - A powerpoint version of our presentation. 
+* Group 4 Research Report - A summary of our findings. 
  
  ---
 ### Data sources
